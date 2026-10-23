@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 int main() {
 	int a;
-	printf("Исходный вариант");
+	printf("Новый вариант");
 	return 0;
 }
