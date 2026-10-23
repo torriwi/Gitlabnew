@@ -2,6 +2,7 @@
 int main() {
 	int a;
 	int b=2;
-	printf("Общий вариант");
+	int c = 3;
+	printf("Вариант с 2 изменениями");
 	return 0;
 }
