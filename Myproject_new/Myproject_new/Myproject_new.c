@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 int main() {
-	int a;
+	int a=1;
+	int b=2;
 	printf("Исходный вариант");
 	return 0;
 }
