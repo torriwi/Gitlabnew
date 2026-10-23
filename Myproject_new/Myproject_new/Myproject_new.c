@@ -1,9 +1,5 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+﻿#include <stdio.h>
 int main() {
-	int a, b;
-	printf("Введите 2 целых цисла:");
-	scanf("%d %d", &a, &b);
-	printf("%d", a - b);
+	printf("Исходный вариант");
 	return 0;
 }
