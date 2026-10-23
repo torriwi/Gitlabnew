@@ -5,5 +5,6 @@ int main() {
 	printf("3 commit");
 	printf("4 commit");
 	printf("5 commit");
+	printf("6 commit");
 	return 0;
 }
