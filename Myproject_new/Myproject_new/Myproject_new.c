@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 int main() {
 	int a;
-	printf("Новый вариант");
+	int b=2;
+	printf("Общий вариант");
 	return 0;
 }
