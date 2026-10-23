@@ -8,5 +8,6 @@ int main() {
 	printf("commit 9");
 	printf("commit 3");
 	printf("commit 4");
+	printf("commit 10");
 	return 0;
 }
